@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jaime Gayo
+# Hola, soy Jaime Gayo
 
 > Software Developer • Full Stack • App & Web Development • Cáceres, Spain
 
