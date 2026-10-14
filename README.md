@@ -36,12 +36,7 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
+<p align="right">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegayo&theme=radical" />
 </p>
 
