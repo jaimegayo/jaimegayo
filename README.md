@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy [Jaime Gayo]
+# ¡Hola! Soy Jaime Gayo
 
-> [Técnico en Desarrollo de Aplicaciones Multiplataforma] • [Cáceres, España]
+> Técnico en Desarrollo de Aplicaciones Multiplataforma • Cáceres, España
 
 ---
 
@@ -53,7 +53,7 @@
 ---
 
 ## Proyectos destacados
-- [Proyecto 3 — Nombre / Portfolio](https://jaimegayo.vercel.app/) — Portfolio personal.
+- Portfolio(https://jaimegayo.vercel.app/) — Portfolio personal.
 
 ---
 
