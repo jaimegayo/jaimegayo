@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales funcionales, bien diseñadas y con buen rendimiento. Me interesa el desarrollo web y móvil, la tecnología, la innovació[...]
+Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales funcionales, bien diseñadas y con buen rendimiento. Me interesa el desarrollo web y móvil, la tecnología, la innovación, la resolución de problemas y la creación de productos útiles.
 
 - 🔭 Actualmente: desarrollando proyectos personales y aprendiendo IA, Big Data y cloud.
 - 🌱 Aprendiendo: Python, AWS, NoSQL, Big Data, IA y arquitectura de software moderna.
@@ -21,25 +21,25 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
   <tr>
     <td valign="top" width="70%">
 
-### Lenguajes
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+      <h3>Lenguajes</h3>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
 
-### Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+      <h3>Frontend</h3>
+      <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square" alt="Angular" />
+      <img src="https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat-square" alt="Astro" />
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind" />
 
-### Backend & Datos
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?logo=mongodb&logoColor=white&style=flat-square)
+      <h3>Backend & Datos</h3>
+      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="SQL" />
+      <img src="https://img.shields.io/badge/-NoSQL-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="NoSQL" />
 
-### Herramientas
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+      <h3>Herramientas</h3>
+      <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" alt="Android" />
+      <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
 
     </td>
     <td valign="top" align="right" width="30%">
