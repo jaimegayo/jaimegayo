@@ -40,6 +40,7 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegayo&theme=radical" />
 </p>
+
 ---
 
 ## 🚀 Proyectos destacados
