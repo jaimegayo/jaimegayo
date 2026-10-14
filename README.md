@@ -4,11 +4,6 @@
 
 ---
 
-<!-- Cabecera animada / grande -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaimegayo&color=brightgreen" alt="profile views" />
-</p>
-
 ## Sobre mí
 - 🔭 Actualmente: [Desarrollando apps y webs por mi cuenta y cursando el Curso de Especialización de IA y Big Data].
 - 🌱 Aprendiendo: [Python, AWS, NoSQL, Big Data, IA...].
