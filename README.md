@@ -41,13 +41,7 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/jaimegayo">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegayo&layout=compact&theme=radical" />
-  </a>
-</p>
-
-<p align="left">
+<p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegayo&theme=radical" />
 </p>
 
