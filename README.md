@@ -43,9 +43,6 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 
 <p align="left">
   <a href="https://github.com/jaimegayo">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jaimegayo&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/jaimegayo">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimegayo&layout=compact&theme=radical" />
   </a>
 </p>
