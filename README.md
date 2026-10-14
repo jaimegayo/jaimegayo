@@ -26,7 +26,9 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
+<p align="right">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegayo&theme=radical" />
+</p>
 ### Backend & Datos
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -36,9 +38,6 @@ Soy un desarrollador apasionado por crear aplicaciones y soluciones digitales fu
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-<p align="right">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaimegayo&theme=radical" />
-</p>
 
 ---
 
