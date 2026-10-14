@@ -5,9 +5,9 @@
 ---
 
 ## Sobre mí
-- 🔭 Actualmente: [Desarrollando apps y webs por mi cuenta y cursando el Curso de Especialización de IA y Big Data].
-- 🌱 Aprendiendo: [Python, AWS, NoSQL, Big Data, IA...].
-- 💡 Me apasiona: [el desarrollo web y móvil, la tecnología y el aprendizaje continuo. Me motiva transformar ideas en proyectos sencillos, funcionales y bien construidos, siempre buscando aprender, mejorar y afrontar nuevos retos.].
+- 🔭 Actualmente: Desarrollando apps y webs por mi cuenta y cursando el Curso de Especialización de IA y Big Data.
+- 🌱 Aprendiendo: Python, AWS, NoSQL, Big Data, IA...
+- 💡 Me apasiona: el desarrollo web y móvil, la tecnología y el aprendizaje continuo. Me motiva transformar ideas en proyectos sencillos, funcionales y bien construidos, siempre buscando aprender, mejorar y afrontar nuevos retos.
 
 ---
 
@@ -53,7 +53,7 @@
 ---
 
 ## Proyectos destacados
-- Portfolio(https://jaimegayo.vercel.app/) — Portfolio personal.
+- [Portfolio](https://jaimegayo.vercel.app/) — Portfolio personal.
 
 ---
 
